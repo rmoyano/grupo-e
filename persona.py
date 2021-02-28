@@ -21,6 +21,6 @@ def validateDateEs(date):
 entrada = input("Ingrese fecha Nacimiento en formato dd/mm/yyyy: ")
  
 if validateDateEs(entrada):
-    print 'Fecha correcta'
+    print('Fecha correcta')
 else:
-    print 'Fecha incorrecta'
+    print('Fecha incorrecta')
