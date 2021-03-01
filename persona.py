@@ -24,3 +24,4 @@ if validateDateEs(entrada):
     print('Fecha correcta')
 else:
     print('Fecha incorrecta')
+    entrada = input("Ingrese fecha Nacimiento en formato dd/mm/yyyy: ")
